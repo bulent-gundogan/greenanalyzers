@@ -1,0 +1,15 @@
+{
+  "name": "greeanalyzers-wp-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bulent-gundogan.github.io/greenanalyzers",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
